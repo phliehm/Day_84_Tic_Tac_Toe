@@ -1,4 +1,4 @@
-** Create a Tic Tac Toe game in Python**
+# Create a Tic Tac Toe game in Python
 
 
 1. Players give input over the command line by giving the position as numbers (could also be col, row)
